@@ -1,0 +1,8 @@
+{
+    "name": "reskins-bobs-modules",
+    "version": "1.0.0",
+    "title": "Maxi Reskins: Bob's Modules",
+    "author": "Max <mxcop>",
+    "factorio_version": "1.1",
+    "dependencies": ["base", "? bobmodules"]
+}
