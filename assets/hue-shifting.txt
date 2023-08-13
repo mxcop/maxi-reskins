@@ -1,0 +1,10 @@
+v = vibrance
+h = hue
+s = saturation
+
+Blue -> Red = +128h
+Blue -> Yellow = -165h & +15v
+Blue -> Brown = -180h & -60v
+Blue -> Dark Green = -100h & -10s & -20v
+Blue -> Light Brown = -180h & -32s & 16v
+Blue -> Silver = -15h & -80s
